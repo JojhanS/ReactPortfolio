@@ -7,7 +7,6 @@ const App = () => {
   return(
       <div>
           <Header/>
-          <Nav />
           <Project />
           <Footer />
       </div>
